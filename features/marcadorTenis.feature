@@ -7,6 +7,8 @@ Scenario:
 		And presiono el boton "Reiniciar"
 		Then  deberia mostrar "0 iguales"
 
+
+
 Scenario:
 		Given visito la pagina de inicio
 		And presiono el boton "Reiniciar"
